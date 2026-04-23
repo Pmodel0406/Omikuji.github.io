@@ -1,0 +1,35 @@
+.TitleText{
+    font-size:50px;   
+}
+.InfomationText{
+    font-size:20px;
+    padding-left:5px;
+    margin-top:-25px;
+}
+.OmikujiImage{
+    padding-left:600px;
+}
+.OmikujiButton{
+    background-color:blue;
+    color: white;
+    border-radius: 7px;
+    text-decoration: none;
+    display: inline-block;
+    opacity: 80%;
+}
+.OmikujiButton p{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.OmikujiButton:hover{
+    opacity: 100%;
+}
+.ResultText{
+    padding-left: 670px;
+    margin-top: -10px;
+    font-size: 30px;
+}
+.Syutten{
+   text-decoration: none;
+}
+
